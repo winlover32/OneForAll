@@ -1,6 +1,6 @@
 beautifulsoup4==4.11.1
 bs4==0.0.1
-certifi==2024.6.2
+certifi==2024.7.4
 chardet==5.0.0
 colorama==0.4.4
 dnspython==2.6.1
@@ -18,5 +18,5 @@ tenacity==8.0.1
 termcolor==1.1.0
 tqdm==4.66.3
 treelib==1.6.1
-urllib3==1.26.19
+urllib3==2.2.2
 win32-setctime==1.1.0
